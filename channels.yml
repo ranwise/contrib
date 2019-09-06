@@ -1234,3 +1234,89 @@ channels:
     link: https://www.youtube.com/channel/UC0mVJcaa-RcumZ_v2wjsqxw
     channelId: UC0mVJcaa-RcumZ_v2wjsqxw
     category: conference
+
+  - name: PiterJS
+    link: https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw
+    channelId: UCN9aK6ZG5PS1nnJZqscsmKw
+    category: conference
+
+  - name: PyCon Russia 2018
+    link: https://www.youtube.com/playlist?list=PLRdS-n5seLRp2es9T9CHzS1W1-apIezYB
+    playlistId: PLRdS-n5seLRp2es9T9CHzS1W1-apIezYB
+    category: conference
+
+  - name: PyCon Russia 2017
+    link: https://www.youtube.com/playlist?list=PLRdS-n5seLRrcQgUdFr0OG_XP-ZU7FcPS
+    playlistId: PLRdS-n5seLRrcQgUdFr0OG_XP-ZU7FcPS
+    category: conference
+
+  - name: PyCon Russia 2016
+    link: https://www.youtube.com/playlist?list=PLRdS-n5seLRqszBqVDF342RMlCWgOTm6q
+    playlistId: PLRdS-n5seLRqszBqVDF342RMlCWgOTm6q
+    category: conference
+
+  - name: PyCon Russia 2015
+    link: https://www.youtube.com/playlist?list=PLRdS-n5seLRqGHVrXZHxXfdw--aAsMdiL
+    playlistId: PLRdS-n5seLRqGHVrXZHxXfdw--aAsMdiL
+    category: conference
+
+  - name: Matheus Castiglioni
+    link: https://www.youtube.com/channel/UCSrG4Y5uz0dcSfi_2qMQdGQ
+    channelId: UCSrG4Y5uz0dcSfi_2qMQdGQ
+    category: vlog
+    
+  - name: TechTrain
+    link: https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg
+    channelId: UCJoerW5eDOz5qu7I2CYi7xg
+    category: conference
+    
+  - name: AvitoTech
+    link: https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg
+    channelId: UCO2w0cpl1wxygHjQH6eEfEg
+    category: conference
+    
+  - name: Frontend Channel
+    link: https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A
+    channelId: UCGQRn0aTnJK-zHFAdT9Nm1A
+    category: conference
+    
+  - name: KharkivCSS
+    link: https://www.youtube.com/channel/UC-R0SL5AsnnvDO2zf__7yPw
+    channelId: UC-R0SL5AsnnvDO2zf__7yPw
+    category: conference
+
+  - name: Bulba Ventures
+    link: https://www.youtube.com/channel/UCxQh0XEEtgu7sCQkopxmZ5g
+    channelId: UCxQh0XEEtgu7sCQkopxmZ5g
+    category: conference
+
+  - name: Dev Ed
+    link: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+    channelId: UClb90NQQcskPUGDIXsQEz5Q
+    category: vlog
+    
+  - name: Python meetup 2015
+    link: https://www.youtube.com/playlist?list=PLjiAaL1HtGPYadniXqciY8c8DUCyV-1xU
+    playlistId: PLjiAaL1HtGPYadniXqciY8c8DUCyV-1xU
+    category: conference
+    
+  - name: Python Meetup 2016
+    link: https://www.youtube.com/playlist?list=PLjiAaL1HtGPZ_FMcput9vP32hZ48TCYMG
+    playlistId: PLjiAaL1HtGPZ_FMcput9vP32hZ48TCYMG
+    category: conference
+
+  - name: Python Meetup 2017
+    link: https://www.youtube.com/playlist?list=PLjiAaL1HtGPalbm2NI4ZTyGQgisC2l9ci
+    playlistId: PLjiAaL1HtGPalbm2NI4ZTyGQgisC2l9ci
+    category: conference
+
+  - name: Python Meetup 2018
+    link: https://www.youtube.com/playlist?list=PLjiAaL1HtGPb8U9f0QPOQXcbJaR8atAPR
+    playlistId: PLjiAaL1HtGPb8U9f0QPOQXcbJaR8atAPR
+    category: conference
+  
+  - name: Python Meetup 2019
+    link: https://www.youtube.com/playlist?list=PLjiAaL1HtGPaMPlrZGCDzUCTsVAyTbHJ4
+    playlistId: PLjiAaL1HtGPaMPlrZGCDzUCTsVAyTbHJ4
+    category: conference
+  
